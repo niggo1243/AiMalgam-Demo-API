@@ -1,0 +1,876 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets"><param name="Local" value="namespace_nikos_assets.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgam"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Demo"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_demo.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ArcherAnimationSubscriber"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_archer_animation_subscriber.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnFinishAttack"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_archer_animation_subscriber.html#a6543fbc3b13d81bb7692d5f5019c127a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnFinishImpact"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_archer_animation_subscriber.html#a1c9a21952f95b54fdbd78755166bf410"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseDemoCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_base_demo_combat_tool.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ExecuteCombat"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_base_demo_combat_tool.html#a73ca07817f65808ba28970d860b2087b"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="attackState"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_base_demo_combat_tool.html#ae39863dd63d6905b72f49676f87815ae"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="minMaxAttackRange"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_base_demo_combat_tool.html#a34daa6b7d7a8c90ca97ae49a159c39df"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="BowCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_bow_combat_tool.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IdleCombat"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_bow_combat_tool.html#a33bf3886ad6078143ed1cff0d1f694bf"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_timingHelper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_bow_combat_tool.html#a814429693641df5c5bb7db94eac958bf"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="DemoAnimationSubscriber"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_demo_animation_subscriber.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Impact"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_demo_animation_subscriber.html#aafd9fa411654edd188466a490d2cb740"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnFinishAttack"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_demo_animation_subscriber.html#aadc6a15b26ae3b865fca12f119f79cac"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnFinishImpact"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_demo_animation_subscriber.html#ac86b1da75161429d0ae92d11dd0b6c69"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="animatorDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_demo_animation_subscriber.html#ae15e3119b04eb7e78cdaf76f8d0815bc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="combatTools"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_demo_animation_subscriber.html#abbf351e9dc9528840e613e971d2b4f87"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="minMaxImpactRange"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_demo_animation_subscriber.html#ae8b421cb5a21eb7e4845e40c69ac3b9d"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="FlyCamera"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_fly_camera.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MeleeCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_melee_combat_tool.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="ProjectileCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_projectile_combat_tool.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_attackState"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_projectile_combat_tool.html#a5166d1bf9cc9824cb39fd9c66461c271"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_cleanProjectileRateInSec"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_projectile_combat_tool.html#a3c3f712f6bd4402ae229380b0202cc76"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_projectileAimCorrection"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_projectile_combat_tool.html#aed8635829cf512d1d5e8086f483d59e6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_projectilePrefab"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_projectile_combat_tool.html#a47b1c409e4a109eb999c772b00a42bd6"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_projectileSpawnPoint"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_projectile_combat_tool.html#ac3d8b8ee1aad6c999ee418d0b33a802c"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Respawner"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_respawner.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="SwordAndShieldCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_sword_and_shield_combat_tool.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Descriptions"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_descriptions.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnimatorDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_animator_descriptor.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnimatorNavAgentObserverDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_animator_nav_agent_observer_descriptor.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="_blackboardMovementKey"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_animator_nav_agent_observer_descriptor.html#a636db4421346f998df518e43273878ed"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="animator"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_animator_nav_agent_observer_descriptor.html#a88f7cd89f00cbcfa7c56b861928f211c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="navMeshAgent"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_animator_nav_agent_observer_descriptor.html#a04ab347969d35f28b98f4fa5c5ba9213"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AnimatorEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_animator_nav_agent_observer_descriptor.html#a26d81c0ccf932f3639e48d2d7ff422de"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="BlackboardMovementKey"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_animator_nav_agent_observer_descriptor.html#a645d82fa8940faf3bbea84691dac822a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="BlackboardTurningKey"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_animator_nav_agent_observer_descriptor.html#a777a76fa49982411b17d9fe5a31f83de"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Hit"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html#a3ac57fa91e239c48190948c9e7f9af4a"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Hit"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html#a82583ede2bc90904b957b67b6b6bfe30"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="NotifyCombatExecute"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html#aaee1ada491bbfb28edfb181ef1bb29f1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="targetsContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html#a5833f80c2c3d73a3c015abcb2b429541"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatToolDestinationContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_tool_destination_container.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamHealthDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_health_descriptor.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamSpotDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_spot_descriptor.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEntitySpotLost"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_spot_descriptor.html#a3cc319fad8381b22b3f28c0e0edcfdfc"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEntitySpotted"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_spot_descriptor.html#a70d65ea7db800631b7f61d613152a661"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="spottedByOthersContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_spot_descriptor.html#a64a87e8fdd81c18ee165101fe5c06506"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="spottedContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_spot_descriptor.html#a06b2d5ae7f0d6d486c10928478768e4f"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="spottedKeyToEntityContainers"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_spot_descriptor.html#aeb467d523b8bd5f7f50fa7eb0b6887e1"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="storeSpottedInMainOnNoKeyMatch"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_spot_descriptor.html#a4e371ff6aa992aab6402645c21b45d3c"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="visibleAreasBySpotters"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_spot_descriptor.html#a5670e7c350891e78a9cbf00428e50d79"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnEnemyCombatUnityEvent"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_on_enemy_combat_unity_event.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnHealthChangedUnityEvt"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_on_health_changed_unity_evt.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="OnHitUnityEvent"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_on_hit_unity_event.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Settings"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Actions"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnimatorSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ExternalValuesType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#ab61d9605e5bbb17cd14936d56cc63249"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="ScriptableObjectVariable"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#ab61d9605e5bbb17cd14936d56cc63249a5323cebcf941a40dd2a497280e9d3629"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Blackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#ab61d9605e5bbb17cd14936d56cc63249a2e4f1bd274410d813d33ec4d482d3f8a"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="_blackboardKey"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a29bbd93ff43fed7abc9e934f7f993362"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="_blackboardKeyHash"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#aa3a7e36d156dc277e435bb9d05b9b33b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="animatorControllerParameterType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#abf0bd01917bf3df71aa7ec1469c2419f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="blendingSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a3fd94aa53d231a6ae31d677a38a4d7a2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="doneOnAnimationValueReached"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#aead95b4e55cd76ee9271c3490a8b34dc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="externalValuesType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a6532348b238d188abf901c4635521b3f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="mapValue"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#ae83b69e4627f2d26fd16055b126c3191"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="maxClampIntValue"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a54b80e4945732235935b90d90491bb7e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="minClampIntValue"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a855c75f39c074c48dcfc14669157bb81"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="useExternalValues"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a4b7e61e21656f0c29861d68870ee58b6"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnySettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_any_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="combatStateProperties"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#ab2c1b80f8dc30dea6852875d4e40a90a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="combatTargeting"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#a0b43ece3222b8cd58b3a9139593529ae"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="combatToolType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#a9a46af66214bef020c0a86f3963fe95a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="filterTargetsOnlyOnce"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#ace881b8bdc80cda15898734ce960b235"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ignoreMainContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#a2903ca8a2cddcd0e2053f9f183d7eb00"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="invalidateOnCantEngage"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#aeba04842b243a4f2cf481d14434051ba"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="minMaxTargetAmount"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#a315b8f16a66799c0da66eb0ace02f55d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="pickedCombatToolMustBeExact"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#ac87c0e3704ca28b6f89b0f065a74bfb8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="runtimeSetsListWrapper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#a9fe8d54646a8263bc377f9624f93f2ab"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="useKey"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#ad94fb1cc29912f946d6b6ef69e06ee80"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatStateProperties"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="disposeStatesOnSelfListWrapper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html#a70f954e4f8509c70bc4778918331ea66"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="disposeStatesOnTargetListWrapper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html#af50b4cccebf6d24547e7b2f32f0793b3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="hitWithToolDirectly"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html#a8442b0dd83c5fb6b0b0f4d4569c0dadb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="lockCurrentTargets"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html#a3a01a0faf46fccf9988ea55029354e00"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="output"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html#a96b4ea9d6eb12925637ddd7aa6dca9bb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="overrideApplyNextCSProperties"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html#a7cfac5729b9cddf297e6a0cc42332643"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="overrideHitApplierCanHit"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html#a638ec8604037dc48bcc12f9603302c34"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="representsCombatState"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html#a7b64a8da62c730b821941f53154fd1cb"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamFleeSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="cacheChaserUntilGone"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#ab78ea8fd7b362428a3be5628a65ccde3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="cacheFleePointUntilReached"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#ae0ce653994277accf849b31bb2800ad5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="clampHeight"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#aae34f12c33af134f1fdf60848afac47b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="fleeAreaMinMaxDistance"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#a077940280eaabc99591cb096e64868d3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="fleeMethod"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#a81c445d051c9e34942358a41f6430534"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="fleePointsRandomizer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#a0d7ed8e0cd67b7d427bf4eaf05f309be"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="followBlending"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#ad5b3ec5cbcfbaeec21161c019fee1450"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="forceMode"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#a74cd8df3d4a53c1edba475ccc5607d80"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ignoreMainContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#a9364439866b625e50740bc1e73aed206"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="minMaxHeightThreshold"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#ad878735f1b97c7a3ea80d685cd59619c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="resetNavmeshAgentDestinationOnRestore"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#a538171bae53d4d9f4211fb712162e9ec"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="runtimeSetsListWrapper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#a3ce0fe06bf9fd8636361d3f7eebc9da3"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="showEditorMovementFX"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#abdc1dba80cc97755a4839d5dba731013"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="stopNavmeshAgentOnRestore"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#abed284ede1339fd228a9aa6df894690a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="useKey"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html#aecdd89eb7487177bea5925df277de90d"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamFollowSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a42d15452ce618606b12889bc5d927e6d"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TailTarget"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a42d15452ce618606b12889bc5d927e6da0304c9c89d5c09a65f8e2e3b64e02372"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="RandomPoint"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a42d15452ce618606b12889bc5d927e6daf1ac98a9e3ed1eb25010803540ff29d7"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="JustLookAtTarget"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a42d15452ce618606b12889bc5d927e6da8d6887b0bf01e2a0b1b8ae408a448571"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleFlankTarget"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a42d15452ce618606b12889bc5d927e6da9bafb75001739410553ee74badcdae44"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="cacheTargetUntilGone"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a6b8b70cd01aa9d2c5670d5c9d73f2df5"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="clampHeight"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#ab256d331c8e6422d30e9c7bdd77e3e42"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="doneOnFollowDestinationReached"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a6cc523aa751f4c7077f020ec6beaef65"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="entitiesToFollowSets"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a0704593afc979a08699d630bc140fd0c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="followAreaMinMaxDistance"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a1c454e0314318d0590c4607ad483e9ef"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="followMethod"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a741af076fc8541de808b9f5104b3e927"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="followType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#aeefc402ea306291bd73a692befe2f454"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="forceMode"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a60152ec2799f5d875186089e13e76f2b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ignoreMainContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a6dd06e7ba6b84a978e495b61a9e933c1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="localAngleBoundsX"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a37aa2e9d3eca705d71736dfcca552f7a"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="minMaxHeightThreshold"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a2579527fef463f595a1ff76fe58a61fd"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="minMaxRandomFlankAngle"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a882ab3640aec54a03f3826510bd7a6e1"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="minMaxRandomFlankRange"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#ab3447c60a26888a8f082f958a5256ed2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="randomizerForPoints"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a85b71c13a47bab7f5ed961706478b365"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="refreshFlankAngleFrequency"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a83f725af8eacc33b6cbbc6c3c9483d39"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="refreshFlankRangeFrequency"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#ad108d3e94aedb433197ecd24cde1bef0"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="showEditorMovementFX"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#aa921240d842d1b79049cec8b9bf6ff0f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="useKey"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#ab7d754764b696d527b613c6a6331335f"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="DoneOnReach"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a3478db33b188dddd891170d67d877d05"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamReactionToSpotted"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_reaction_to_spotted.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="forceRemoveState"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_reaction_to_spotted.html#a2837258c1da3aa010168244d0876ace8"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="lockStateOnOtherReactionSameEntity"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_reaction_to_spotted.html#a7c5f6e2921ad92bfd2e2108371f48344"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="output"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_reaction_to_spotted.html#aca3a55d78fce339b1584d8492f762d30"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spottedHasKey"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_reaction_to_spotted.html#aa2117983b8a045a8856647e0f1fae7e6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spottedKey"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_reaction_to_spotted.html#adfb95f550ca0110b018fe68bc80643ad"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamSpottingSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a4e617c69ca0e0280fc65d190f1a6e4a4"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Contact"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a4e617c69ca0e0280fc65d190f1a6e4a4abbaff12800505b22a853e8b7f4eb6a22"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Raycast"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a4e617c69ca0e0280fc65d190f1a6e4a4a117e624bbbd5afc75a3150ba85d3cb93"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewCone"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a4e617c69ca0e0280fc65d190f1a6e4a4a721f932a508ddf7c1519828b7ce37b66"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Distance"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a4e617c69ca0e0280fc65d190f1a6e4a4a0aa6f4210bf373c95eda00232e93cd98"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ViewConeType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a7c1a96a8f2a109c27b1ae60d1a501079"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="OneAngle"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a7c1a96a8f2a109c27b1ae60d1a501079af05d2f191792e449a648b198052ede39"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="HorAndVertAngles"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a7c1a96a8f2a109c27b1ae60d1a501079a6f1cd7d66662e6b8924b2ac98ec50137"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="FourSidedAngles"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a7c1a96a8f2a109c27b1ae60d1a501079a935abc7bb63fdd1c0eb98f8d9cff463f"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="allowedLayerMasks"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#ab0f0546188c99564115df39e87851086"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="checkIfLineOfSightIsBlocked"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a61e65377fbc319aafa568f3481c4ddeb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="countFromFirstElementOtherwiseLast"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a3b50e6945ddd28848c49235d5562b9bb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="doneOnTargetSpotted"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a2f00c9ea2b0e11b8a948ff53f5b6ef96"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="entitiesToSpotPools"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a5cbbc00162adf2ea14f60dc05d74a7a9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="isSilentSpot"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#adb98bc94412caaf716bf2dd6cd047bcc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="maxIndexDistanceTolerance"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a15e876cafd11acd25fe593333b653e9b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="mustBeInCertainIndexArea"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a79c02fbba490efc978856c56ffe84126"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="raycastCheckInMultiple"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a2cb9e563842a68b355866cc510c4e19d"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="reactionToSpottedList"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a9fc6733e15f66c17d77bc210a6dfb5ec"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="showEditorSpottingFX"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#ae206f53eb4e075e64aa7d65467d0a969"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spotAngle"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a8f21892476d53389bb42b0a3854db8ab"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spotAngleHorizontal"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#ad4116b052ab560ba88cd167daa949b18"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spotAngleHorizontalRightHalf"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#ae4f34ad05344baa32b920a80318bcfce"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spotAngleVertical"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a9696e884e94f42bef2f6956d1221e2fc"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spotAngleVerticalUpHalf"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a0d5098df800283c6c2602053129209ae"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spotDelay"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#ab8c173497aeba26be0a226ebf778c94e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spotDistanceArea"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#aae8cb7ee99e800bc6afe711649e13720"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spotLostDelay"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a997f8388e9fbbf164983ad58752d944e"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="spottingType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#af5c75043b17029eb209da92a4a5f1449"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="viewConeType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#afc8e7cf28659724cbcbaa0a551c14df0"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="CombatStatePropertiesListWrapper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_combat_state_properties_list_wrapper.html"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="IAiMalgamDisposeOnDestinationSetting"><param name="Local" value="interface_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_i_ai_malgam_dispose_on_destination_setting.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="ReactionToSpottedListWrapper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_reaction_to_spotted_list_wrapper.html"><param name="ImageNumber" value="11"></OBJECT>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="RuntimeSetsListWrapper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_runtime_sets_list_wrapper.html"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Comparers"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAverageDistanceComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_average_distance_comparer.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamDistanceComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_distance_comparer.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamFirstComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_first_comparer.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamLastComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_last_comparer.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamMedianDistanceComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_median_distance_comparer.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamRandomComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_random_comparer.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Conditions"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatTargetsCondition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_combat_targets_condition.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="amountIsMaxInclusive"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_combat_targets_condition.html#a712ef7c0ff880f8b0a603a60e496c3a2"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamDetectSelfInTargetSpots"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_detect_self_in_target_spots.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamDistanceCondition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_distance_condition.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="minMaxDistance"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_distance_condition.html#a960e6b7d5dbd908ac9eb9367f0c4e53d"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamHealthCondition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_health_condition.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="thresholdIsMaxOtherwiseMinInclusive"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_health_condition.html#a4a4944b4ffb8a1649327637c30f64821"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="validOnNoMatchingDescriptorFound"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_health_condition.html#a8524058ca698b10cb8efd3122b008edb"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamSpotContainsEntityCondition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_spot_contains_entity_condition.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="mustNotContainOthers"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_spot_contains_entity_condition.html#a5e6df1461bbee566a28f3a0013dcacbb"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="searchByKey"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_spot_contains_entity_condition.html#a21c35738fd5dab4a8e8653f00b9b65d9"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="successOnContainsRequesterEntity"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_spot_contains_entity_condition.html#a59ee7b7ab45dd183de756adeac83825f"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamSpottedByOthersCondition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_spotted_by_others_condition.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="conditionForSpotters"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_spotted_by_others_condition.html#a750c35f1eddf5330a1fa17d10d24ca7b"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="foundMatchingSpottedThreshold"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_spotted_by_others_condition.html#a0942bc387771a92baf7e1a28a797718c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="thresholdIsMaxOtherwiseMin"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_spotted_by_others_condition.html#a60e6670410bc9bdbdb5ad1c4f0eb0fd9"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="States"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_states.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatState"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_states_1_1_ai_malgam_combat_state.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="combatStateOutput"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_states_1_1_ai_malgam_combat_state.html#a08df5b7e571d01bbe472e144b7fea3ad"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatToolType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_combat_tool_type.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="combatToolTypeOutput"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_combat_tool_type.html#ae4d2865f581671046deb2931b97ef57f"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamToolType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_tool_type.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="toolTypeOutput"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_tool_type.html#a0f0bc508e304f32aa8d6176f377ee563"><param name="ImageNumber" value="11"></OBJECT>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="IAiMalgamToolType"><param name="Local" value="interface_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_i_ai_malgam_tool_type.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Systems"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Actions"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Animator"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AnimatorBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_animator_blackboard.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_base_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BlackboardBoolAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_blackboard_bool_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BlackboardFloatAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_blackboard_float_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BlackboardIntAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_blackboard_int_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BlackboardTriggerAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_blackboard_trigger_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ReaderBoolAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_reader_bool_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ReaderFloatAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_reader_float_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ReaderIntAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_reader_int_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ReaderTriggerAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_reader_trigger_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleBoolAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_simple_bool_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleFloatAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_simple_float_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleIntAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_simple_int_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleTriggerAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_simple_trigger_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AnyAction"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnyActionDestroySelf"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_any_action_destroy_self.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnyActionLogger"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_any_action_logger.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnyActionTimeWaster"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_any_action_time_waster.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnyActionTriggerDecision"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_any_action_trigger_decision.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnyBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_any_blackboard.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseAnyAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_base_any_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Combat"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_combat.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseCombatAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_combat_1_1_base_combat_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="CombatBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_combat_1_1_combat_blackboard.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleCombatAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_combat_1_1_simple_combat_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Flee"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_flee.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FleeBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_flee_1_1_flee_blackboard.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleFleeAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_flee_1_1_simple_flee_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Follow"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseFollowAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_base_follow_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseTargetingFollowAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_base_targeting_follow_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_follow_blackboard.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowRandomAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_follow_random_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowTailAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_follow_tail_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="JustLookAtFollowAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_just_look_at_follow_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SimpleFlankTargetAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_simple_flank_target_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Spotting"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseSpottingAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_base_spotting_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseSpottingRaycastAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_base_spotting_raycast_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="CheckRaycastSingleHit"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_base_spotting_raycast_action.html#a47df84db74219cb0363b0cc8008c00c3"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_blackboard.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingByDistanceOnlyAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_by_distance_only_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingByViewAreaAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_by_view_area_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingContactCollectorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_contact_collector_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingRaycastMultipleAnyIndexAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_raycast_multiple_any_index_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingRaycastMultipleSpecificIndexAreaAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_raycast_multiple_specific_index_area_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingRaycastSingleAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_raycast_single_action.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamDestinationActionHelper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowMethod"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a4149183f6faa6c03a1d70eb0a9aec1cc"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="Navmesh"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a4149183f6faa6c03a1d70eb0a9aec1cca958d885262450a6566ff440e3a51702b"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TransformTranslate"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a4149183f6faa6c03a1d70eb0a9aec1ccabe32f892adc6c8052c5fc24bddcbcc85"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="TransformApply"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a4149183f6faa6c03a1d70eb0a9aec1ccabfa881e0b2bcc3391b83b208cb133020"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="RigidbodyAddForce"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a4149183f6faa6c03a1d70eb0a9aec1cca961402794bee97ae98c48019962cc834"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="RigidbodyMovePosition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a4149183f6faa6c03a1d70eb0a9aec1cca0f45f1aa3bbb1d0f5783ea11e63cfffb"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="ClampAirPoint"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a56f62ea930a9798db7f19caba3c50892"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="DebugLine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a2db5eda6c1ca3d610ddbe1d1c0f7621c"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowPointNavmeshAgent"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a97dda30458ea9f4ec363f836ce25e6d6"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowPointRigidbodyForce"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a7cda8a8fdc383eb76a1ba3a93d9de0f2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowPointRigidbodyMovePosition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a24058b045dcd06bb928e9f372df6c701"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowPointTransformApply"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a141f9337c2b293ebd34dbc08cd5589ab"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowPointTransformTranslate"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#ac7a6fcbc3567e7241c92fa06601f0aed"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="UpdateIsDoneDestinationApprox"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#a0448a57fe940acb6d9e2b002efd42874"><param name="ImageNumber" value="11"></OBJECT>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="BoidFollowAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_boid_follow_action.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="MovementBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_movement_blackboard.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              </UL>
+            </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="Engines"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AnimatorEngine"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnimatorFixedUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine_1_1_ai_malgam_animator_fixed_update_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnimatorLateUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine_1_1_ai_malgam_animator_late_update_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnimatorUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine_1_1_ai_malgam_animator_update_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseAnimatorEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine_1_1_ai_malgam_base_animator_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="_animatorsOfSameBehaviour"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine_1_1_ai_malgam_base_animator_engine.html#a34144855d51ee497a9a972c6f5ce1884"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="AnimatorsOfSameBehaviour"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine_1_1_ai_malgam_base_animator_engine.html#a90867ef467598203d1dc7e017fd71e6a"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="AnyEngine"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_any_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnyEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_any_engine_1_1_ai_malgam_any_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="_anyActionTypes"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_any_engine_1_1_ai_malgam_any_engine.html#a24f91858cc2a3f7a576a657b9008d531"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamAnyEngineUpdate"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_any_engine_1_1_ai_malgam_any_engine_update.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="Combat"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseCombatEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="combatToolsContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_engine.html#a6dcdbc4091b7cdb674134732bae516c1"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="resultTargetsContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_engine.html#a8547b1eb5bd9b6cc442f2dfcf2aa484e"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="targetsContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_engine.html#ab43d82db9c538eb6576681e0b8a0352a"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="targetsKeyToEntityContainers"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_engine.html#a59b1e22cee70f5b8942cc4f9b8323747"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseCombatHitApplier"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_hit_applier.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_tool.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="IdleCombat"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_tool.html#aadd22be9ac7e7e78e1e441222f2533a8"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="setStateOnTargetHit"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_tool.html#af8f981518b15ccff9a1cdf2b5fa94a72"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatHitApplierCollisionEnter"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_collision_enter.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="_destroySelfOnCollision"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_collision_enter.html#a1d778bdbf821c96cf717afbc20222dee"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="condition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_collision_enter.html#a96af2917be6d54a23faf68ec37f2cee8"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatHitApplierCollisionStay"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_collision_stay.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="condition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_collision_stay.html#a225c44977be728e2c9cdecdff6358e36"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="hitCooldown"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_collision_stay.html#a0065c21e52813f2fca51fabc4d7a6150"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatHitApplierTriggerEnter"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_trigger_enter.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="condition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_trigger_enter.html#a6aa638ebd0293d231c247e2e7871b1b9"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatHitApplierTriggerStay"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_trigger_stay.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="condition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_trigger_stay.html#a14b808320dc91461e448c46723da1185"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="hitCooldown"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_trigger_stay.html#aa5085de4233e625abce7c49385d6aacd"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamCombatUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_update_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="FleeEngine"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_flee_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseFleeEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_flee_engine_1_1_ai_malgam_base_flee_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="centralAreaTransform"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_flee_engine_1_1_ai_malgam_base_flee_engine.html#a6a8d142a7d3462a9499ad91d441b256f"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="displayFXTimeInSec"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_flee_engine_1_1_ai_malgam_base_flee_engine.html#a08cfa8ec8624799287cfafa15060d044"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="showEditorMovementFX"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_flee_engine_1_1_ai_malgam_base_flee_engine.html#aae9ba004fadee99532b36fb31301aa0c"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamFleeFixedUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_flee_engine_1_1_ai_malgam_flee_fixed_update_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamFleeUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_flee_engine_1_1_ai_malgam_flee_update_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="FollowEngine"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_follow_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseFollowEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_follow_engine_1_1_ai_malgam_base_follow_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="centralAreaTransform"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_follow_engine_1_1_ai_malgam_base_follow_engine.html#a5115f4331bacd2d7fd932149342e70fc"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="displayFXTimeInSec"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_follow_engine_1_1_ai_malgam_base_follow_engine.html#a955eea14cc89f6b5a476631ca345a894"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="showEditorMovementFX"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_follow_engine_1_1_ai_malgam_base_follow_engine.html#a159051ba16badcfd6193a5f43f8eacd6"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamFollowFixedUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_follow_engine_1_1_ai_malgam_follow_fixed_update_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamFollowUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_follow_engine_1_1_ai_malgam_follow_update_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingEngine"><param name="Local" value="namespace_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+              <UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseSpottingEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="_spottingDescriptorHash"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#a13ef5f4bb974f767861f1d9e02d09e1a"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="_spottingDescriptorName"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#afb548ca24908784888490d53a4ffcf0d"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="caster"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#a34edca2287b23ccd3004c1d7c0c966a2"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="contactCollectors"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#aaf3a0af5cdbca8d01279597cbe6df34c"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="currentSpottedEntities"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#ad3c412c9bff7d8782286736bc2fb7657"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="displayFXTimeInSec"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#a333b9b62f6cd771650cebd84342cb765"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="potentialSpottedEntities"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#a98d69ab3b299fe5179b0e85e9d6dec98"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="showEditorSpottingFX"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#ad06e4d08e3d63da168e51c03bda27311"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="targetsToSpotContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#a3a7bcdb2479cb612000966767e1e8d07"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingDescriptorHash"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#a8200185bbca123fffafacae7cce659af"><param name="ImageNumber" value="11"></OBJECT>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottingDescriptorName"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html#ad855a9c0b585b94a08ed3197d775e7fd"><param name="ImageNumber" value="11"></OBJECT>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamSpotterCollisionOnEnterDetector"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotter_collision_on_enter_detector.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamSpotterCollisionOnStayDetector"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotter_collision_on_stay_detector.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamSpotterContactCollector"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotter_contact_collector.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                <LI><OBJECT type="text/sitemap"><param name="Name" value="ColliderContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spottcf0ae7e926b89be77e42ff33d848584d.html"><param name="ImageNumber" value="1"></OBJECT>
+                  <UL>
+                  </UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamSpotterTriggerOnEnterDetector"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotter_trigger_on_enter_detector.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamSpotterTriggerOnStayDetector"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotter_trigger_on_stay_detector.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamSpottingUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotting_update_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="OnSpotUnityEvent"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_on_spot_unity_event.html"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="SpottedEntityContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_spotted_entity_container.html"><param name="ImageNumber" value="1"></OBJECT>
+                <UL>
+                </UL>
+              </UL>
+            </UL>
+          </UL>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseAction"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.BaseAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_base_animator_action.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.BlackboardBoolAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_blackboard_bool_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.BlackboardFloatAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_blackboard_float_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.BlackboardIntAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_blackboard_int_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.BlackboardTriggerAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_blackboard_trigger_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.ReaderBoolAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_reader_bool_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.ReaderFloatAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_reader_float_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.ReaderIntAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_reader_int_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.ReaderTriggerAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_reader_trigger_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.SimpleBoolAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_simple_bool_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.SimpleFloatAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_simple_float_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.SimpleIntAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_simple_int_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.SimpleTriggerAnimatorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_simple_trigger_animator_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.AnyAction.AiMalgamBaseAnyAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_base_any_action.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.AnyAction.AiMalgamAnyActionDestroySelf"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_any_action_destroy_self.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.AnyAction.AiMalgamAnyActionLogger"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_any_action_logger.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.AnyAction.AiMalgamAnyActionTimeWaster"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_any_action_time_waster.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.AnyAction.AiMalgamAnyActionTriggerDecision"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_any_action_trigger_decision.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Combat.BaseCombatAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_combat_1_1_base_combat_action.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Combat.SimpleCombatAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_combat_1_1_simple_combat_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Flee.SimpleFleeAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_flee_1_1_simple_flee_action.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Follow.BaseFollowAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_base_follow_action.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.BoidFollowAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_boid_follow_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Follow.BaseTargetingFollowAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_base_targeting_follow_action.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Follow.FollowTailAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_follow_tail_action.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Follow.JustLookAtFollowAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_just_look_at_follow_action.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Follow.SimpleFlankTargetAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_simple_flank_target_action.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Follow.FollowRandomAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_follow_random_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Spotting.BaseSpottingAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_base_spotting_action.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Spotting.BaseSpottingRaycastAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_base_spotting_raycast_action.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Spotting.SpottingRaycastMultipleAnyIndexAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_raycast_multiple_any_index_action.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Spotting.SpottingRaycastMultipleSpecificIndexAreaAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_raycast_multiple_specific_index_area_action.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Spotting.SpottingRaycastSingleAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_raycast_single_action.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Spotting.SpottingByDistanceOnlyAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_by_distance_only_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Spotting.SpottingByViewAreaAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_by_view_area_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Spotting.SpottingContactCollectorAction"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_contact_collector_action.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseComparison"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Comparers.AiMalgamAverageDistanceComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_average_distance_comparer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Comparers.AiMalgamDistanceComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_distance_comparer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Comparers.AiMalgamFirstComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_first_comparer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Comparers.AiMalgamLastComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_last_comparer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Comparers.AiMalgamMedianDistanceComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_median_distance_comparer.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Comparers.AiMalgamRandomComparer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_comparers_1_1_ai_malgam_random_comparer.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseCondition"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Conditions.AiMalgamDistanceCondition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_distance_condition.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseConditionForDescriptors"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Conditions.AiMalgamCombatTargetsCondition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_combat_targets_condition.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Conditions.AiMalgamDetectSelfInTargetSpots"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_detect_self_in_target_spots.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Conditions.AiMalgamHealthCondition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_health_condition.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Conditions.AiMalgamSpotContainsEntityCondition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_spot_contains_entity_condition.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Conditions.AiMalgamSpottedByOthersCondition"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_conditions_1_1_ai_malgam_spotted_by_others_condition.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseDescriptor"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Descriptions.AiMalgamAnimatorDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_animator_descriptor.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Descriptions.AiMalgamAnimatorNavAgentObserverDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_animator_nav_agent_observer_descriptor.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Descriptions.AiMalgamCombatDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Descriptions.AiMalgamHealthDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_health_descriptor.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Descriptions.AiMalgamSpotDescriptor"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_spot_descriptor.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseLemma"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.AiMalgamToolType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_tool_type.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.AiMalgamCombatToolType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_combat_tool_type.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseNotesScriptableObject"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamCombatStateProperties"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamReactionToSpotted"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_reaction_to_spotted.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamBaseSettingsForEngine"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamAnimatorSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamAnySettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_any_settings.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamCombatSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamFleeSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_flee_settings.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamFollowSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamSpottingSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.AiMalgamDestinationActionHelper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamEntityBaseEngine"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.AnimatorEngine.AiMalgamBaseAnimatorEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine_1_1_ai_malgam_base_animator_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.AnimatorEngine.AiMalgamAnimatorFixedUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine_1_1_ai_malgam_animator_fixed_update_engine.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.AnimatorEngine.AiMalgamAnimatorLateUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine_1_1_ai_malgam_animator_late_update_engine.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.AnimatorEngine.AiMalgamAnimatorUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_animator_engine_1_1_ai_malgam_animator_update_engine.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.AnyEngine.AiMalgamAnyEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_any_engine_1_1_ai_malgam_any_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.AnyEngine.AiMalgamAnyEngineUpdate"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_any_engine_1_1_ai_malgam_any_engine_update.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.Combat.AiMalgamBaseCombatEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.Combat.AiMalgamCombatUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_update_engine.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.FleeEngine.AiMalgamBaseFleeEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_flee_engine_1_1_ai_malgam_base_flee_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.FleeEngine.AiMalgamFleeFixedUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_flee_engine_1_1_ai_malgam_flee_fixed_update_engine.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.FleeEngine.AiMalgamFleeUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_flee_engine_1_1_ai_malgam_flee_update_engine.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.FollowEngine.AiMalgamBaseFollowEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_follow_engine_1_1_ai_malgam_base_follow_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.FollowEngine.AiMalgamFollowFixedUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_follow_engine_1_1_ai_malgam_follow_fixed_update_engine.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.FollowEngine.AiMalgamFollowUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_follow_engine_1_1_ai_malgam_follow_update_engine.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.SpottingEngine.AiMalgamBaseSpottingEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_base_spotting_engine.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.SpottingEngine.AiMalgamSpottingUpdateEngine"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotting_update_engine.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="AiMalgamState"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.States.AiMalgamCombatState"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_states_1_1_ai_malgam_combat_state.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseDestinationContainerMono"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Descriptions.AiMalgamCombatToolDestinationContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_tool_destination_container.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="BaseNotesMono"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.DemoAnimationSubscriber"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_demo_animation_subscriber.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.ArcherAnimationSubscriber"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_archer_animation_subscriber.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.Combat.AiMalgamBaseCombatHitApplier"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_hit_applier.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.Combat.AiMalgamCombatHitApplierCollisionEnter"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_collision_enter.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.Combat.AiMalgamCombatHitApplierCollisionStay"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_collision_stay.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.Combat.AiMalgamCombatHitApplierTriggerEnter"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_trigger_enter.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.Combat.AiMalgamCombatHitApplierTriggerStay"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_trigger_stay.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.Combat.AiMalgamBaseCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_tool.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.BaseDemoCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_base_demo_combat_tool.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.MeleeCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_melee_combat_tool.html"><param name="ImageNumber" value="11"></OBJECT>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.SwordAndShieldCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_sword_and_shield_combat_tool.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.ProjectileCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_projectile_combat_tool.html"><param name="ImageNumber" value="1"></OBJECT>
+          <UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.BowCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_bow_combat_tool.html"><param name="ImageNumber" value="11"></OBJECT>
+          </UL>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.SpottingEngine.AiMalgamSpotterContactCollector.ColliderContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spottcf0ae7e926b89be77e42ff33d848584d.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IAiMalgam"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.IAiMalgamToolType"><param name="Local" value="interface_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_i_ai_malgam_tool_type.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.AiMalgamToolType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_ai_malgam_tool_type.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IAiMalgamActionSetting"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamCombatStateProperties"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_state_properties.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamReactionToSpotted"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_reaction_to_spotted.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="IAiMalgamBlackboard"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Animator.AnimatorBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_animator_1_1_animator_blackboard.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.AnyAction.AiMalgamAnyBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_any_action_1_1_ai_malgam_any_blackboard.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Combat.CombatBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_combat_1_1_combat_blackboard.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.MovementBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_movement_blackboard.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Flee.FleeBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_flee_1_1_flee_blackboard.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Follow.FollowBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_follow_1_1_follow_blackboard.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Actions.Spotting.SpottingBlackboard"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_spotting_1_1_spotting_blackboard.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.IAiMalgamDisposeOnDestinationSetting"><param name="Local" value="interface_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_i_ai_malgam_dispose_on_destination_setting.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.AiMalgamFollowSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="ListWrapper"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.CombatStatePropertiesListWrapper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_combat_state_properties_list_wrapper.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.ReactionToSpottedListWrapper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_reaction_to_spotted_list_wrapper.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Settings.Actions.RuntimeSetsListWrapper"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_runtime_sets_list_wrapper.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="MonoBehaviour"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.FlyCamera"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_fly_camera.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.Respawner"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_respawner.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.SpottingEngine.AiMalgamSpotterContactCollector"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotter_contact_collector.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.SpottingEngine.AiMalgamSpotterCollisionOnEnterDetector"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotter_collision_on_enter_detector.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.SpottingEngine.AiMalgamSpotterCollisionOnStayDetector"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotter_collision_on_stay_detector.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.SpottingEngine.AiMalgamSpotterTriggerOnEnterDetector"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotter_trigger_on_enter_detector.html"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.SpottingEngine.AiMalgamSpotterTriggerOnStayDetector"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_ai_malgam_spotter_trigger_on_stay_detector.html"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.SpottingEngine.SpottedEntityContainer"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_spotted_entity_container.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UnityEvent"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Descriptions.OnEnemyCombatUnityEvent"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_on_enemy_combat_unity_event.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Descriptions.OnHealthChangedUnityEvt"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_on_health_changed_unity_evt.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Descriptions.OnHitUnityEvent"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_on_hit_unity_event.html"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.SpottingEngine.OnSpotUnityEvent"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_spotting_engine_1_1_on_spot_unity_event.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="functions_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
