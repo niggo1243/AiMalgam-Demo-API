@@ -42,6 +42,9 @@
           <LI><OBJECT type="text/sitemap"><param name="Name" value="FlyCamera"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_fly_camera.html"><param name="ImageNumber" value="1"></OBJECT>
             <UL>
             </UL>
+          <LI><OBJECT type="text/sitemap"><param name="Name" value="MalgyNavMeshSpeedAdjustment"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_malgy_nav_mesh_speed_adjustment.html"><param name="ImageNumber" value="1"></OBJECT>
+            <UL>
+            </UL>
           <LI><OBJECT type="text/sitemap"><param name="Name" value="MeleeCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_melee_combat_tool.html"><param name="ImageNumber" value="11"></OBJECT>
           <LI><OBJECT type="text/sitemap"><param name="Name" value="ProjectileCombatTool"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_projectile_combat_tool.html"><param name="ImageNumber" value="1"></OBJECT>
             <UL>
@@ -112,6 +115,7 @@
               <LI><OBJECT type="text/sitemap"><param name="Name" value="_blackboardKeyHash"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#aa3a7e36d156dc277e435bb9d05b9b33b"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="animatorControllerParameterType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#abf0bd01917bf3df71aa7ec1469c2419f"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="blendingSettings"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a3fd94aa53d231a6ae31d677a38a4d7a2"><param name="ImageNumber" value="11"></OBJECT>
+              <LI><OBJECT type="text/sitemap"><param name="Name" value="clampRawInputToBoundaries"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a70639549cd890763d3f738b3166038c7"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="doneOnAnimationValueReached"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#aead95b4e55cd76ee9271c3490a8b34dc"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="externalValuesType"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a6532348b238d188abf901c4635521b3f"><param name="ImageNumber" value="11"></OBJECT>
               <LI><OBJECT type="text/sitemap"><param name="Name" value="mapValue"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#ae83b69e4627f2d26fd16055b126c3191"><param name="ImageNumber" value="11"></OBJECT>
@@ -786,6 +790,7 @@
         <UL>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.ArcherAnimationSubscriber"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_archer_animation_subscriber.html"><param name="ImageNumber" value="11"></OBJECT>
         </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Demo.MalgyNavMeshSpeedAdjustment"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_malgy_nav_mesh_speed_adjustment.html"><param name="ImageNumber" value="11"></OBJECT>
       <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.Combat.AiMalgamBaseCombatHitApplier"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_base_combat_hit_applier.html"><param name="ImageNumber" value="1"></OBJECT>
         <UL>
         <LI><OBJECT type="text/sitemap"><param name="Name" value="NikosAssets.AiMalgam.Systems.Engines.Combat.AiMalgamCombatHitApplierCollisionEnter"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_engines_1_1_combat_1_1_ai_malgam_combat_hit_applier_collision_enter.html"><param name="ImageNumber" value="11"></OBJECT>

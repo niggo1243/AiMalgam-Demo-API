@@ -25,13 +25,13 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_systems_1_1_actions_1_1_ai_malgam_destination_action_helper.html#ac7a6fcbc3567e7241c92fa06601f0aed"><param name="Name" value="FollowPointTransformTranslate"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#a42d15452ce618606b12889bc5d927e6d"><param name="Name" value="FollowType"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a7c1a96a8f2a109c27b1ae60d1a501079a935abc7bb63fdd1c0eb98f8d9cff463f"><param name="Name" value="FourSidedAngles"></OBJECT>
-  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html#a82583ede2bc90904b957b67b6b6bfe30"><param name="Name" value="Hit"></OBJECT>
-  <UL>
-    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html#a82583ede2bc90904b957b67b6b6bfe30"><param name="Name" value="NikosAssets::AiMalgam::Descriptions::AiMalgamCombatDescriptor"></OBJECT>
-  </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html#a3ac57fa91e239c48190948c9e7f9af4a"><param name="Name" value="Hit"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html#a3ac57fa91e239c48190948c9e7f9af4a"><param name="Name" value="NikosAssets::AiMalgam::Descriptions::AiMalgamCombatDescriptor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html#a82583ede2bc90904b957b67b6b6bfe30"><param name="Name" value="Hit"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_descriptions_1_1_ai_malgam_combat_descriptor.html#a82583ede2bc90904b957b67b6b6bfe30"><param name="Name" value="NikosAssets::AiMalgam::Descriptions::AiMalgamCombatDescriptor"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_spotting_settings.html#a7c1a96a8f2a109c27b1ae60d1a501079a6f1cd7d66662e6b8924b2ac98ec50137"><param name="Name" value="HorAndVertAngles"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_bow_combat_tool.html#a33bf3886ad6078143ed1cff0d1f694bf"><param name="Name" value="IdleCombat"></OBJECT>
@@ -105,6 +105,7 @@
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_demo_animation_subscriber.html#ae8b421cb5a21eb7e4845e40c69ac3b9d"><param name="Name" value="minMaxImpactRange"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_fly_camera.html"><param name="Name" value="NikosAssets::AiMalgam::Demo::FlyCamera"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_malgy_nav_mesh_speed_adjustment.html"><param name="Name" value="NikosAssets::AiMalgam::Demo::MalgyNavMeshSpeedAdjustment"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_melee_combat_tool.html"><param name="Name" value="NikosAssets::AiMalgam::Demo::MeleeCombatTool"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_projectile_combat_tool.html"><param name="Name" value="NikosAssets::AiMalgam::Demo::ProjectileCombatTool"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_demo_1_1_projectile_combat_tool.html"><param name="Name" value="NikosAssets::AiMalgam::Demo::ProjectileCombatTool"></OBJECT>
@@ -237,6 +238,10 @@
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::Actions::AiMalgamAnimatorSettings"></OBJECT>
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a3fd94aa53d231a6ae31d677a38a4d7a2"><param name="Name" value="blendingSettings"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::Actions::AiMalgamAnimatorSettings"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a70639549cd890763d3f738b3166038c7"><param name="Name" value="clampRawInputToBoundaries"></OBJECT>
   </UL>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html"><param name="Name" value="NikosAssets::AiMalgam::Settings::Actions::AiMalgamAnimatorSettings"></OBJECT>
   <UL>
@@ -1070,6 +1075,7 @@
   <UL>
     <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_follow_settings.html#ab256d331c8e6422d30e9c7bdd77e3e42"><param name="Name" value="NikosAssets::AiMalgam::Settings::Actions::AiMalgamFollowSettings"></OBJECT>
   </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_animator_settings.html#a70639549cd890763d3f738b3166038c7"><param name="Name" value="clampRawInputToBoundaries"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_states_1_1_ai_malgam_combat_state.html#a08df5b7e571d01bbe472e144b7fea3ad"><param name="Name" value="combatStateOutput"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#ab2c1b80f8dc30dea6852875d4e40a90a"><param name="Name" value="combatStateProperties"></OBJECT>
   <LI><OBJECT type="text/sitemap"><param name="Local" value="class_nikos_assets_1_1_ai_malgam_1_1_settings_1_1_actions_1_1_ai_malgam_combat_settings.html#a0b43ece3222b8cd58b3a9139593529ae"><param name="Name" value="combatTargeting"></OBJECT>
